@@ -1,3 +1,3 @@
 <?php
-  echo '<?php include_once("Mohith.html"); ?>'
+  echo include_once("Mohith.html");
 ?>
