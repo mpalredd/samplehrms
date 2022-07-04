@@ -1,1 +1,1 @@
-<?php include_once("HTML page creation - Mohith.html"); ?>
+<?php include_once("Mohith.html"); ?>
